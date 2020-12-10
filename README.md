@@ -9,7 +9,7 @@ I'm Islem Maboud a Full Stack Web Developer and Content Creator on [Youtube](htt
 <!-- TODO: Add last video link -->
 
 - 😄 I’m looking for a summer job!
-- 📫 How to reach me: lleonardodma@al.insper.edu.br.
+- 📫 How to reach me: leonardodma@al.insper.edu.br.
 
 
 #### Top Technologies
@@ -21,9 +21,8 @@ I'm Islem Maboud a Full Stack Web Developer and Content Creator on [Youtube](htt
 
 
 #### Bizness
-- :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
+- :paperclip: [My Resume/CV](https://github.com/leonardodma/leonarodma/blob/main/resume_leonardo.pdf)
 
 
 #### Profile Visits 
-
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=leonarodma.leonardodma)
