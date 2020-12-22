@@ -16,7 +16,7 @@ I'm Leonardo, current in the 4° semester of Computer Engineer at Insper.
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![Python Badge](https://img.shields.io/badge/-Python-61DBFB?style=for-the-badge&labelColor=black&logo=python&logoColor=61DBFB)](#) [![Java Badge](https://img.shields.io/badge/-Java-900c13?style=for-the-badge&labelColor=black&logo=java&logoColor=900c13)](#) [![Android Badge](https://img.shields.io/badge/-Android%20Studio-3cda83?style=for-the-badge&labelColor=black&logo=android&logoColor=3cda83)](#) [![HTML Badge](https://img.shields.io/badge/-HTML-e44d26?style=for-the-badge&labelColor=black&logo=html5&logoColor=e44d26)](#) [![CSS Badge](https://img.shields.io/badge/-CSS-5dbcd2?style=for-the-badge&labelColor=black&logo=css3&logoColor=5dbcd2)](#)
+[![Python Badge](https://img.shields.io/badge/-Python-61DBFB?style=for-the-badge&labelColor=black&logo=python&logoColor=61DBFB)](#) [![Java Badge](https://img.shields.io/badge/-Java-900c13?style=for-the-badge&labelColor=black&logo=java&logoColor=900c13)](#) [![Android Badge](https://img.shields.io/badge/-Android%20Studio-3cda83?style=for-the-badge&labelColor=black&logo=android&logoColor=3cda83)](#) [![HTML Badge](https://img.shields.io/badge/-HTML-e44d26?style=for-the-badge&labelColor=black&logo=HTML5&logoColor=e44d26)](#) [![CSS Badge](https://img.shields.io/badge/-CSS-5dbcd2?style=for-the-badge&labelColor=black&logo=css3&logoColor=5dbcd2)](#)
 
 
 ---
